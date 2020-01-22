@@ -5,6 +5,8 @@ General Linear Model for Strike Swinging with varImp
 
 > Target variable : Target variable name = numerator and it is binary column indicating Strike Swing. (1 = Strike Swing, 0 = Hit)
 
+In the group of Side arm Pitcher data, I divided pithcher group by their own pitch type. 
+
 # Links
 about varImp : https://www.rdocumentation.org/packages/caret/versions/6.0-85/topics/varImp
 
